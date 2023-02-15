@@ -1,0 +1,19 @@
+*{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+body{
+    background-color: bisque;
+}
+h1{
+    font-size: 50px;
+    font-weight: bold;
+    text-align: center;
+}
+img{
+    height: auto;
+    width: 500px;
+}
+ul{
+    font-size: 24px;
+    text-align: center;
+}
